@@ -15,7 +15,6 @@ export default function Home() {
         Professional Electrical, Plumbing, CCTV & Aluminium Services in Riyadh,
         Saudi Arabia.
       </p>
-
       <hr />
 
       <h2>Our Services</h2>
